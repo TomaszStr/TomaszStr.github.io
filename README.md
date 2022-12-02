@@ -8,3 +8,4 @@ Uczę się Pythona i C, znam podstawy C++.
 #### Zainteresowania:
 - Informatyka
 - Historia
+#### W 6 osobowym zespole pracujemy nad wykonaniem szachów w Pythonie.
